@@ -14,6 +14,6 @@ Outside of programming: I love tending to my garden, eating all my fruits & vege
 
 Fuera de la programación: me encanta cuidar mi jardín, comer todas mis frutas & verduras, escuchar buena música, jugar ajedrez & ver fútbol.
 
-## 🔗 Portfolio Link / Enlace de Cartera
+## 🔗 Portfolio / Cartera
 
 - https://bit.ly/46SHD9w/
