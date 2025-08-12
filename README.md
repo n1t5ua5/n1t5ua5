@@ -1,18 +1,18 @@
 ## 🌎 Welcome Everybody / Bienvenidos a Todos
 
-I'm currently a college student majoring in computer programming, but as a web developer I'm passionate about building clean & creative web experiences with a minimalist design philosophy.
+I'm currently a college student majoring in computer science, but as a web developer of many years, I'm passionate about building clean & creative web experiences that embody a minimalist design philosophy.
 
-Soy un estudiante universitario de programación de computadoras, pero como desarrollador web, me apasiona crear experiencias web limpias & creativas con una filosofía de diseño minimalista.
+Actualmente soy un estudiante universitario de ciencias de la computación, pero como desarrollador web con muchos años de experiencia, me apasiona crear experiencias web limpias y creativas que encarnen una filosofía de diseño minimalista.
+
+## 🌱 A Little Bit About Me / Un Poco Sobre Mí
+
+Outside of programming & technology in general; I love tending to my garden, eating all my fruits & vegetables, listening to good music, playing chess & watching soccer/football.
+
+Fuera de la programación y la tecnología en general, me encanta cuidar mi jardín, comer mis frutas y verduras, escuchar buena música, jugar ajedrez y ver fútbol.
 
 ## 💻 My Tech Stack / Mi Stack Tecnológico
 
-Bootstrap. Canva. CSS. Docker. Django. FastAPI. Git. GitHub. GitLab. DevTools. HTML. JavaScript. jQuery. JSON. JSX. MySQL. MongoDB. Node.js. NoSQL. Pair. PHP. PostgreSQL. PowerShell. Python. React. Redux. SQL. VSCode. Weebly. Windows. WordPress.
-
-## 🌱 About Me / Sobre mí
-
-Outside of programming: I love tending to my garden, eating all my fruits & vegetables, listening to good music, playing chess & watching soccer/football.
-
-Fuera de la programación: me encanta cuidar mi jardín, comer todas mis frutas & verduras, escuchar buena música, jugar ajedrez & ver fútbol.
+Bootstrap. CSS. Docker. Django. FastAPI. Git. DevTools. HTML. JavaScript. jQuery. MySQL. MongoDB. Pair. php. PowerShell. Python. React. Redux. SQL. VSCode. Weebly. Windows. WordPress.
 
 ## 🔗 Portfolio / Cartera
 
