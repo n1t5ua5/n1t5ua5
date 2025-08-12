@@ -6,9 +6,9 @@ Actualmente soy un estudiante universitario de ciencias de la computación, pero
 
 ## 🌱 A Little Bit About Me / Un Poco Sobre Mí
 
-Outside of programming & technology in general; I love tending to my garden, eating all my fruits & vegetables, listening to good music, playing chess & watching soccer/football.
+Outside of programming & technology, I love learning new languages, tending to my garden, eating all my fruits & vegetables, listening to good music, playing chess & watching soccer/football.
 
-Fuera de la programación y la tecnología en general, me encanta cuidar mi jardín, comer mis frutas y verduras, escuchar buena música, jugar ajedrez y ver fútbol.
+Fuera de la programación y la tecnología, me encanta aprender idiomas diferentes, cuidar mi jardín, comer mis frutas y verduras, escuchar buena música, jugar ajedrez y ver fútbol.
 
 ## 💻 My Tech Stack / Mi Stack Tecnológico
 
