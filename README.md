@@ -16,4 +16,4 @@ Bootstrap. CSS. Docker. Django. FastAPI. Git. DevTools. HTML. JavaScript. jQuery
 
 ## 🔗 Portfolio / Cartera
 
-- https://bit.ly/46SHD9w
+LIVE: https://bit.ly/46SHD9w
