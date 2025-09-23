@@ -12,7 +12,7 @@ Fuera de la programación y la tecnología, me encanta aprender idiomas diferent
 
 ## 💻 My Tech Stack / Mi Stack Tecnológico
 
-Bootstrap. CSS. Docker. Django. FastAPI. Git. DevTools. HTML. JavaScript. jQuery. MySQL. MongoDB. Pair. php. PowerShell. Python. React. Redux. SQL. VSCode. Weebly. Windows. WordPress.
+Bootstrap | CSS | Docker | Django | FastAPI | Git | DevTools | HTML | Java | JavaScript | jQuery | Markdown | MySQL | MongoDB | Pair | PHP | PowerShell | Python | React | Redux | SQL | VSCode | Weebly | Windows | WordPress
 
 ## 🔗 Portfolio / Cartera
 
