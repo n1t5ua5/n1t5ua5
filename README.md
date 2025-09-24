@@ -1,8 +1,8 @@
 ## 🌎 Welcome Everybody / Bienvenidos a Todos
 
-I'm currently a college student majoring in computer science, but as a web developer of many years, I'm passionate about building clean & creative web experiences that embody a minimalist design philosophy. I specialize in technical writing due to my experience writing newsletters & because I can continue learning while I help bridge the gap between developers & users. 
+I'm currently a college student majoring in computer science, but as a web developer of many years, I'm passionate about building clean & creative web experiences that embody a minimalist design philosophy. As I've grown to specialize in technical writing & documentation which stems from my past experience in marketing & writing newsletters, I became a strong believer in continuous self-improvement & hope that reflects in my resiliency!
 
-Actualmente soy un estudiante universitario de ciencias de la computación, pero como desarrollador web con muchos años de experiencia, me apasiona crear experiencias web limpias y creativas que encarnen una filosofía de diseño minimalista. Me especializo en redacción técnica debido a mi experiencia escribiendo boletines informativos y porque puedo seguir aprendiendo mientras ayudo a cerrar la brecha entre desarrolladores y usuarios.
+Actualmente soy un estudiante universitario de ciencias de la computación, pero como desarrollador web con muchos años de experiencia, me apasiona crear experiencias web limpias y creativas que encarnen una filosofía de diseño minimalista. A medida que me fui especializando en redacción y documentación técnica, lo cual surgió de mi experiencia previa en marketing y redacción de boletines informativos, me convertí en un firme creyente en la superación personal continua y la esperanza que se refleja en mi resiliencia!
 
 ## 🌱 A Little Bit About Me / Un Poco Sobre Mí
 
@@ -16,4 +16,4 @@ Bootstrap | CSS | Docker | Django | FastAPI | Git | DevTools | HTML | Java | Jav
 
 ## 🔗 Portfolio / Cartera
 
-PORTFOLIO SITE: https://bit.ly/46SHD9w
+URL: https://bit.ly/46SHD9w
