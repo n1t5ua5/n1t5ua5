@@ -6,9 +6,9 @@ Soy un estudiante universitario apasionado por crear experiencias web limpias y 
 
 ## 🌱 A Little Bit More About Me / Un Poco Más Sobre Mí 🌱
 
-Outside of technology, I love: learning new languages, tending to my garden, listening to good music and playing chess.
+Outside of technology, I love learning new languages, tending to my garden, listening to good music and playing chess.
 
-Fuera de la tecnología, me encanta: aprender idiomas diferentes, cuidar mi jardín, escuchar buena música y jugar ajedrez.
+Fuera de la tecnología, me encanta aprender idiomas diferentes, cuidar mi jardín, escuchar buena música y jugar ajedrez.
 
 ## 💻 My Tech Stack / Mi Stack Tecnológico 💻
 
