@@ -14,6 +14,7 @@ Fuera de la tecnología, me encanta aprender idiomas diferentes, cuidar mi jard�
 
 _Bootstrap | CSS | DevTools | Django | Docker | FastAPI | Git | HTML | Java | JavaScript | jQuery | Linux | Mailchimp | Markdown | MySQL | MongoDB | NoSQL | Pair | PHP | PowerShell | Python | React | Redux | SQL | VSCode | Weebly | Windows | WordPress | YouTube_
 
-## 🔗 URLs 🔗
+## 🔗 Resources / Recursos 🔗
 
-### Portfolio/Portafolio: https://bit.ly/46SHD9w, Journal/Revista: http://bit.ly/45YTmC7
+### Portfolio(Portafolio): https://bit.ly/46SHD9w
+### Journal(Revista): http://bit.ly/45YTmC7
