@@ -1,8 +1,8 @@
 ## 🌎 Welcome Everybody / Bienvenidos a Todos 🌎
 
-I'm a college student that's passionate about building clean and creative web experiences that embody a minimalist design philosophy. As a strong believer in the Agile methodology, I've grown to rely on technical writing and documentation to hold myself accountable and continually improve any project I'm working on. 
+I'm a student that's passionate about building clean and creative web experiences that embody a minimalist design philosophy. As a strong believer in the Agile methodology, I've grown to rely on technical writing and documentation to hold myself accountable and continually improve any project I'm working on. 
 
-Soy un estudiante universitario apasionado por crear experiencias web limpias y creativas que reflejen una filosofía de diseño minimalista. Como firme creyente de la metodología Agile, he aprendido a confiar en la redacción técnica y la documentación para responsabilizarme de mi trabajo y mejorar continuamente cualquier proyecto en el que esté trabajando.
+Soy un estudiante apasionado por crear experiencias web limpias y creativas que reflejen una filosofía de diseño minimalista. Como firme creyente de la metodología Agile, he aprendido a confiar en la redacción técnica y la documentación para responsabilizarme de mi trabajo y mejorar continuamente cualquier proyecto en el que esté trabajando.
 
 ## 🌱 A Little Bit More About Me / Un Poco Más Sobre Mí 🌱
 
