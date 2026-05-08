@@ -16,6 +16,6 @@ _Bootstrap | C | Claude | CSS | DevTools | Django | Docker | FastAPI | Git | HTM
 
 ## 🔗 Resources / Recursos 🔗
 
-### Portfolio(Portafolio): https://bit.ly/46SHD9w
+### 🎨 Portfolio / Portafolio 🎨 https://bit.ly/46SHD9w
 
-### Journal(Revista): http://bit.ly/45YTmC7
+### 📖 Journal / Revista 📖 http://bit.ly/45YTmC7
