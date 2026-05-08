@@ -12,7 +12,7 @@ Fuera de la tecnología, me amo aprender idiomas nuevos, cuidar a mi jardín, es
 
 ## 💻 My Tech Stack / Mi Stack Tecnológico 💻
 
-_Bootstrap | C | Claude | CSS | DevTools | Django | Docker | FastAPI | Git | HTML | Java | JavaScript | jQuery | Linux | Mailchimp | Markdown | MySQL | MongoDB | NoSQL | Pair | PHP | PowerShell | Python | React | Redux | SQL | VSCode | Weebly | Windows | WordPress | YouTube_
+_Bootstrap | C | Canva | Claude | CSS | DevTools | Django | Docker | FastAPI | Git | HTML | Java | JavaScript | jQuery | Linux | Mailchimp | Markdown | MySQL | MongoDB | NoSQL | Pair | PHP | PowerShell | Python | React | Redux | SQL | VSCode | Weebly | Windows | WordPress | YouTube_
 
 ## 🔗 Resources / Recursos 🔗
 
